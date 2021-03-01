@@ -13,6 +13,7 @@
 		876D080B25ECD77300837D35 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 876D080925ECD77300837D35 /* Main.storyboard */; };
 		876D080D25ECD77400837D35 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 876D080C25ECD77400837D35 /* Assets.xcassets */; };
 		876D081025ECD77400837D35 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 876D080E25ECD77400837D35 /* LaunchScreen.storyboard */; };
+		876D081925ECDB6700837D35 /* NexViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 876D081825ECDB6700837D35 /* NexViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		876D080C25ECD77400837D35 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		876D080F25ECD77400837D35 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		876D081125ECD77400837D35 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		876D081825ECDB6700837D35 /* NexViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NexViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				876D080325ECD77300837D35 /* AppDelegate.swift */,
 				876D080525ECD77300837D35 /* SceneDelegate.swift */,
 				876D080725ECD77300837D35 /* ViewController.swift */,
+				876D081825ECDB6700837D35 /* NexViewController.swift */,
 				876D080925ECD77300837D35 /* Main.storyboard */,
 				876D080C25ECD77400837D35 /* Assets.xcassets */,
 				876D080E25ECD77400837D35 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				876D081925ECDB6700837D35 /* NexViewController.swift in Sources */,
 				876D080825ECD77300837D35 /* ViewController.swift in Sources */,
 				876D080425ECD77300837D35 /* AppDelegate.swift in Sources */,
 				876D080625ECD77300837D35 /* SceneDelegate.swift in Sources */,
